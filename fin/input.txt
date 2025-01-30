@@ -1,0 +1,3 @@
+MIPS is great!
+MIPS Assembly is powerful.
+This is a test for MIPS.
